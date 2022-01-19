@@ -1,0 +1,16 @@
+*{
+    border-color: aliceblue;
+    BACKGROUND-COLOR:#FFFF;
+    background-position:aliceblue ;
+
+}
+.p,h1{
+    text-align: center;
+    text-transform: uppercase;
+    top: 0;
+    margin-top: 0;
+    padding: auto;
+}
+.image{
+    background-image: url();
+}
